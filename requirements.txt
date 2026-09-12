@@ -16,5 +16,5 @@ pycparser==2.17
 pyOpenSSL==16.2.0
 python-dateutil==2.6.0
 PyYAML==3.12
-six==1.10.0
+six==1.17.0
 Werkzeug==0.11.15
