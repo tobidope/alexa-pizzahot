@@ -1,4 +1,4 @@
-aniso8601==1.2.0
+aniso8601==10.0.1
 cffi==1.9.1
 click==6.7
 cryptography==1.7.1
